@@ -1,0 +1,62 @@
+
+
+
+body{
+text-align: justify;
+text-align: left;
+background-color: green;
+font-family: 'Times New Roman', Times, serif;
+margin: 25px 50px 75px 100px;
+font-size: large;
+color: aliceblue
+
+}
+
+
+.william{
+
+font-size: x-large;
+font-weight: bold;
+
+}
+
+.email{
+
+color: rgba(255, 136, 0, 0.877);
+}
+
+
+footer{
+    text-align: center;
+color: black;
+background-color: gold;
+}
+
+.curriculum{
+text-align: center;
+border: dotted; border-color: red;
+color: rgb(228, 255, 105);
+
+}
+
+
+
+.personal{
+color: white;
+
+}
+
+.media{
+    color: white;
+}
+
+.conferences{
+color: black;
+
+}
+
+.core{
+    color: white;
+}
+
+
